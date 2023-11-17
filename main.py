@@ -128,3 +128,4 @@ while chances > 0:
         print('')
         print (f'FIM DE JOGO, você perdeu, a palavra era: {palavra}')
         print("kkk")
+        print("kjj")

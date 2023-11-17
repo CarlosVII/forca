@@ -127,3 +127,4 @@ while chances > 0:
         print (corpo[6])
         print('')
         print (f'FIM DE JOGO, você perdeu, a palavra era: {palavra}')
+        print("kkk")
